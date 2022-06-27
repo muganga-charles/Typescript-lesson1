@@ -1,0 +1,23 @@
+{
+    "name": "learning-typescript",
+    "version": "1.0.0",
+    "description": "Learning TypeScript",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cjrequena/learning-typescript.git"
+    },
+    "author": "cjrequena",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cjrequena/learning-typescript/issues"
+    },
+    "homepage": "https://github.com/cjrequena/learning-typescript#readme",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
